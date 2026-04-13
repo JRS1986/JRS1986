@@ -31,10 +31,4 @@ AI systems.
 - Reviewer, CoRL Workshop on Safe and Robust Robot Learning
 - Lecturer: Applied AI (HS Esslingen), Real-Time Systems & IoT (DHBW Stuttgart)
 
-### Background
-
-Dr.-Ing. in Electrical Engineering (Univ. Erlangen-Nuremberg / Daimler AG) ·  
-Dipl.-Math. in Scientific Computing (Ruprecht-Karls-Universität Heidelberg)  
-189+ citations · [Google Scholar](https://scholar.google.de/citations?user=Jjsg6h4AAAAJ)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jan--r--seyler-blue)](https://linkedin.com/in/jan-r-seyler)
