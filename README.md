@@ -1,16 +1,40 @@
-## Hi there 👋
+## Jan R. Seyler
 
-<!--
-**JRS1986/JRS1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Advanced Development Analytics & Control at **Festo SE & Co. KG** — 
+leading 36 engineers across Stuttgart, Bangalore, and Moldova on AI, autonomous 
+systems, control theory, and embedded software.
 
-Here are some ideas to get you started:
+**General Chair, IAAI (Innovative Applications of Artificial Intelligence)** — 
+the AAAI-affiliated conference and world's leading forum for deployed, real-world 
+AI systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+
+- **Physical AI & autonomous systems** — AI that acts in the physical world: 
+  reinforcement learning for robot control, physics-informed ML, and AI-driven 
+  actuation at Festo
+- **Industrial LLMs & RAG** — deployed the Festo Virtual Assistant (GPT-4, 2023) 
+  globally across the full product portfolio
+- **Multi-agent systems** — architecture and deployment of multi-agent AI for 
+  industrial environments; presented live to 100,000+ viewers
+- **Festo–Nvidia Isaac Sim integration** — digital-twin simulation platform for 
+  AI-driven industrial robot development (Best Paper Finalist, IROS 2024)
+- **GripperAI** — RL-based robotic picking system deployed at Würth Logistics (2023)
+- **Rapid²** — internal AI rapid-prototyping platform connected to Nvidia 
+  Omniverse/Isaac Sim
+
+### Advisory & community
+
+- Speaker, **Digital-Gipfel** — German Federal Government AI strategy forum
+- Expert advisor, **Plattform Lernende Systeme** — Germany's national AI policy board
+- Keynote speaker: Hannover Messe, Industrial AI Conference, Konstruktionsleiterforum
+- Reviewer, CoRL Workshop on Safe and Robust Robot Learning
+- Lecturer: Applied AI (HS Esslingen), Real-Time Systems & IoT (DHBW Stuttgart)
+
+### Background
+
+Dr.-Ing. in Electrical Engineering (Univ. Erlangen-Nuremberg / Daimler AG) ·  
+Dipl.-Math. in Scientific Computing (Ruprecht-Karls-Universität Heidelberg)  
+189+ citations · [Google Scholar](https://scholar.google.de/citations?user=Jjsg6h4AAAAJ)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jan--r--seyler-blue)](https://linkedin.com/in/jan-r-seyler)
