@@ -10,8 +10,9 @@ AI systems.
 
 ### What I work on
 
+- **Embedded AI** for highly specialized applications deployed on real industrial components
 - **Physical AI & autonomous systems** — AI that acts in the physical world: 
-  reinforcement learning for robot control, physics-informed ML, and AI-driven 
+  reinforcement learning for motion strategies, physics-informed ML, and AI-driven 
   actuation at Festo
 - **Industrial LLMs & RAG** — deployed the Festo Virtual Assistant (GPT-4, 2023) 
   globally across the full product portfolio
